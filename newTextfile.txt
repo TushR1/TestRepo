@@ -1,0 +1,2 @@
+My second text file 
+I'm writing this to check if I'm able to push the file to git
